@@ -7,7 +7,7 @@ Setup Amazon SageMaker Studio and clone GitHub repository
 
 - Step 2: Create Amazon SageMaker Studio Session in Oregon (us-west-2) region.
 
-- Step 3: Clone GitHub repository within the Amazon SageMaker Studio. GitHub repo: https://github.com/veerathp/sagemaker-workshop-labs
+- Step 3: Clone GitHub repository within the Amazon SageMaker Studio. 
    
    To clone, go to the `File → Terminal` and then run the command below
    ```
