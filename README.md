@@ -31,13 +31,15 @@ Note: The first lab will take about 20-30mins to run, once completed move to the
 - Open and run the Notebook Instances in Amazon SageMaker Studio located in /02-sagemaker-hpo-xgboost/HPO_Analyze_TuningJob_Results.ipynb
 
 
-#### Lab 3: Multi Model endpoints
+
+#### Lab 3: Model monitoring 
+Monitoring Machine Learning endpoints 
+- Open and run the Notebook Instance in Amazon SageMaker Studio located in /03-sagemaker-model-monitor/SageMaker-ModelMonitoring.ipynb
+
+
+#### Lab 4: Multi Model endpoints
 
 Deploying Machine Learning models using Multi Model endpoints
 
 - Open and run the Notebook Instance in Amazon SageMaker Studio located in /04-sagemaker-mme/xgboost_multi_model_endpoint_home_value.ipynb
 
-
-#### Lab 4: Model monitoring 
-Monitoring Machine Learning endpoints 
-- Open and run the Notebook Instance in Amazon SageMaker Studio located in /03-sagemaker-model-monitor/SageMaker-ModelMonitoring.ipynb
