@@ -9,10 +9,11 @@ Setup Amazon SageMaker Studio and clone GitHub repository
 
 - Step 3: Clone GitHub repository within the Amazon SageMaker Studio. GitHub repo: https://github.com/veerathp/sagemaker-workshop-labs
    
-   To clone, go to the File→Terminal and then copy the command below
+   To clone, go to the `File → Terminal` and then run the command below
    ```
   git clone https://github.com/veerathp/sagemaker-workshop-labs.git
    ```
+
 ## Hands-on labs
 
 Use **Phyton 3 (Data Science)** kernel to run all labs below
