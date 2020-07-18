@@ -13,9 +13,9 @@ Setup Amazon SageMaker Studio and clone GitHub repository
    ```
   git clone https://github.com/veerathp/sagemaker-workshop-labs.git
    ```
-### Labs
+### Hands-on labs
 
-All labs should run using Data Science kernel 
+Use **Phyton 3 (Data Science)** kernel to run all labs below
 
 #### Lab 1: Build, Train and Deploy ML models
 Build, Train and Deploy Machine Learning models using Amazon SageMaker / DeerAR
@@ -26,9 +26,9 @@ Build, Train and Deploy Machine Learning models using Amazon SageMaker / DeerAR
 Hyper Parameter Optimization using Amazon SageMaker 
 - Open and run the Notebook Instances in Amazon SageMaker Studio located in /02-sagemaker-hpo-xgboost/hpo_xgboost_direct_marketing_sagemaker_python_sdk.ipynb
 
-Note: The first lab will take about 20-30mins to run, once completed move to the notebook below to analyzing the training jobs. Enter the name of the training job in the tuning_job_name = 'ENTER TRAINING JOB'
+*Note: The first lab will take about 20-30mins to run, once completed move to the notebook below to analyzing the training jobs. Enter the name of the training job in the tuning_job_name = 'ENTER TRAINING JOB'*
 
-- Open and run the Notebook Instances in Amazon SageMaker Studio located in /02-sagemaker-hpo-xgboost/HPO_Analyze_TuningJob_Results.ipynb
+- Cont. Open and run the Notebook Instances in Amazon SageMaker Studio located in /02-sagemaker-hpo-xgboost/HPO_Analyze_TuningJob_Results.ipynb
 
 
 
