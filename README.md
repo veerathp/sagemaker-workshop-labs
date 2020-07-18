@@ -47,8 +47,8 @@ Deploying Machine Learning models using Multi Model endpoints
 #### Additional Resources
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 - [Amazon SageMaker Examples](https://github.com/awslabs/amazon-sagemaker-examples)
+- [Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-the-first-fully-integrated-development-environment-for-machine-learning/)
 - [Amazon SageMaker Autopilot](https://aws.amazon.com/sagemaker/autopilot/)
-- [Amazon SageMaker Studio: IDE For Machine Learning](https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-the-first-fully-integrated-development-environment-for-machine-learning/)
 - [Host Multiple Models with Multi-Model Endpoints](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-model-endpoints.html)
 
 
