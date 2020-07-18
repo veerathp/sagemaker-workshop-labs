@@ -25,7 +25,7 @@ Build, Train and Deploy Machine Learning models using Amazon SageMaker / DeerAR
 #### Lab 2: Hyper Parameter Optimization
 Hyper Parameter Optimization using Amazon SageMaker 
 
-*Note: The first lab will take about 20-30mins to run, once completed move to the notebook below to analyzing the training jobs. 
+*Note: The first lab will take about 20-30mins to run, once completed move to the notebook below to analyzing the training jobs.*
 
 - Open and run the Notebook Instances in Amazon SageMaker Studio located in **/02-sagemaker-hpo-xgboost/hpo_xgboost_direct_marketing_sagemaker_python_sdk.ipynb**
 
