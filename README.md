@@ -3,13 +3,19 @@
 ## Prerequisites
 Setup Amazon SageMaker Studio and clone GitHub repository 
 
-- Step 1: Login into the AWS console, navigate to Amazon SageMaker service 
-
-- Step 2: Create Amazon SageMaker Studio Session in Oregon (us-west-2) region.
-
-- Step 3: Clone GitHub repository within the Amazon SageMaker Studio. 
+Login into the AWS console
    
-   To clone, go to the `File → Terminal` and then run the command below
+   - Step 1. Paste the hash login URL associated to your name in a browser
+   
+   - Step 2. Click “AWS Console”, then “Open AWS Console”
+
+Open Amazon SageMaker Studio 
+   - Step 3. Navigate to Amazon SageMaker service. 
+   
+   - Step 4. Create Amazon SageMaker Studio Session in Oregon (us-west-2) region.
+
+Clone GitHub repository within the Amazon SageMaker Studio
+   - Step 5. To clone, go to the `File → Terminal` and then run the command below
    ```
   git clone https://github.com/veerathp/sagemaker-workshop-labs.git
    ```
