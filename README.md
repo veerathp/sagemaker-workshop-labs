@@ -1,21 +1,24 @@
 # Machine Learning Workshop
 
 ## Prerequisites
-Setup Amazon SageMaker Studio and clone GitHub repository 
 
-Login into the AWS console
+Sign in to the AWS console
    
    - Step 1. Paste the hash login URL associated to your name in a browser
    
    - Step 2. Click “AWS Console”, then “Open AWS Console”
 
 Open Amazon SageMaker Studio 
-   - Step 3. Navigate to Amazon SageMaker service. 
+   - Step 3. Navigate to Amazon SageMaker service
    
-   - Step 4. Create Amazon SageMaker Studio Session in Oregon (us-west-2) region.
+   - Step 4. Create Amazon SageMaker Studio session in Oregon (us-west-2) region. 
+      
+      Select "Quick start" with "Create a new role" in the "Execution Role" section, then click "Submit". This will take about 2-3 mins. 
+      
+      Once its completed and the Amazon SageMaker Studio domain has status "Ready", select "Open Studio".
 
 Clone GitHub repository within the Amazon SageMaker Studio
-   - Step 5. To clone, go to the `File → Terminal` and then run the command below
+   - Step 5. Within Amazon SageMaker Studio, go to the `File → New → Terminal` and then run following command 
    ```
   git clone https://github.com/veerathp/sagemaker-workshop-labs.git
    ```
