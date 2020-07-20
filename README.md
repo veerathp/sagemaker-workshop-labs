@@ -25,7 +25,7 @@ Clone GitHub repository within the Amazon SageMaker Studio
 
 ## Hands-on labs
 
-Use **Phyton 3 (Data Science)** kernel to run all labs below
+Use **Python 3 (Data Science)** kernel to run all labs below
 
 ### Lab 1: Build, Train and Deploy ML models
 Build, Train and Deploy Machine Learning models using Amazon SageMaker / DeerAR
