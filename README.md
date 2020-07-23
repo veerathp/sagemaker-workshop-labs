@@ -25,12 +25,13 @@ Clone GitHub repository within the Amazon SageMaker Studio
 
 ## Hands-on labs
 
-Use **Python 3 (Data Science)** kernel to run all labs below
+Use **Python 3 (Data Science)** kernel to run all labs below into SageMaker Studio. For SageMaker notebook instances use conda_python3.
 
 ### Lab 1: Build, Train and Deploy ML models
 Build, Train and Deploy Machine Learning models using Amazon SageMaker / DeerAR
 
-- Open and run the Notebook Instances in Amazon SageMaker Studio located in `/01-01-DeepAR/deepar_chicago_traffic_violations.ipynb`
+- Open and run the Notebook Instances in Amazon SageMaker Studio located in `/01-DeepAR/deepar_chicago_traffic_violations.ipynb`
+
 
 ### Lab 2: Hyper Parameter Optimization
 Hyper Parameter Optimization using Amazon SageMaker. The first lab will take about 20-30mins to run, once completed move to the second notebook to analyzing the training jobs.
