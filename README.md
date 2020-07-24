@@ -44,12 +44,12 @@ Hyper Parameter Optimization using Amazon SageMaker. The first lab will take abo
 
 ### Lab 3: Running experiments 
 Running experiments and manage multiple trials
-- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/02-customer-churn/SageMaker-ModelMonitoring.ipynb`
+- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/02-customer-churn/xgboost_customer_churn_studio.ipynb`
 
 
 ### Lab 4: Unsupervised ML algorithms
 Build, Train and Deploy Machine Learning models for anomaly detection
-- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/03-unsupervised-random-cut-forest/SageMaker-ModelMonitoring.ipynb`
+- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/03-unsupervised-random-cut-forest/random_cut_forest.ipynb`
 
 
 ### Lab 5: Multi Model endpoints
