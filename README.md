@@ -36,22 +36,27 @@ Build, Train and Deploy Machine Learning models using Amazon SageMaker / DeerAR
 ### Lab 2: Hyper Parameter Optimization
 Hyper Parameter Optimization using Amazon SageMaker. The first lab will take about 20-30mins to run, once completed move to the second notebook to analyzing the training jobs.
 
-- Open and run the Notebook Instances in Amazon SageMaker Studio located in `/02-sagemaker-hpo-xgboost/hpo_xgboost_direct_marketing_sagemaker_python_sdk.ipynb`
+- Open and run the Notebook Instances in Amazon SageMaker Studio located in `/04-sagemaker-hpo-xgboost/hpo_xgboost_direct_marketing_sagemaker_python_sdk.ipynb`
 
-- Cont. Open and run the Notebook Instances in Amazon SageMaker Studio located in `/02-sagemaker-hpo-xgboost/HPO_Analyze_TuningJob_Results.ipynb`. Make sure you replace the name of the training job
-
-
-
-### Lab 3: Model monitoring 
-Monitoring Machine Learning endpoints 
-- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/03-sagemaker-model-monitor/SageMaker-ModelMonitoring.ipynb`
+- Cont. Open and run the Notebook Instances in Amazon SageMaker Studio located in `/04-sagemaker-hpo-xgboost/HPO_Analyze_TuningJob_Results.ipynb`. Make sure you replace the name of the training job
 
 
-### Lab 4: Multi Model endpoints
+
+### Lab 3: Running Experiments 
+Running Experiments and manage multiple trials
+- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/02-customer-churn/SageMaker-ModelMonitoring.ipynb`
+
+
+### Lab 4: Unsupervised ML algorithms
+Build, Train and Deploy Machine Learning models for anomaly detection
+- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/03-unsupervised-random-cut-forest/SageMaker-ModelMonitoring.ipynb`
+
+
+### Lab 5: Multi Model endpoints
 
 Deploying Machine Learning models using Multi Model endpoints
 
-- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/04-sagemaker-mme/xgboost_multi_model_endpoint_home_value.ipynb`
+- Open and run the Notebook Instance in Amazon SageMaker Studio located in `/06-sagemaker-mme/xgboost_multi_model_endpoint_home_value.ipynb`
 
 
 #### Additional Resources
