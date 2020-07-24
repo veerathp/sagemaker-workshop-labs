@@ -42,8 +42,8 @@ Hyper Parameter Optimization using Amazon SageMaker. The first lab will take abo
 
 
 
-### Lab 3: Running Experiments 
-Running Experiments and manage multiple trials
+### Lab 3: Running experiments 
+Running experiments and manage multiple trials
 - Open and run the Notebook Instance in Amazon SageMaker Studio located in `/02-customer-churn/SageMaker-ModelMonitoring.ipynb`
 
 
